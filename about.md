@@ -24,4 +24,4 @@ Harvard i-Lab Alumni
 Orthopaedic Surgeon
 Advisory Board of [8chili](https://8chili.com/) in San Francisco
 
-See my [website](https://karpathy.ai/).
+See my [linkedin](https://www.linkedin.com/in/sangjoon-kwak-md-msc-89172293/).
