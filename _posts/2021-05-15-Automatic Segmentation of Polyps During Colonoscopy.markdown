@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "<Computer Vision> Automatic Segmentation of Polyps During Colonoscopy"
+title:  "[Computer Vision] Automatic Segmentation of Polyps During Colonoscopy"
 excerpt: "BMI707 Class Team Project for Deep Learning for Biomedical Data"
 date:   2021-05-15 10:00:00
 mathjax: false
