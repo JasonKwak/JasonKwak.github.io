@@ -9,9 +9,9 @@ SangJoon Kwak, MD, MPH
 
 
 - Medical Doctor
-  - Kyung Hee Univ. (Korea)
+  - Kyung Hee Univ. 
 - Master of Public Health in Health Management
-  - Harvard Univ. (USA)<br>
+  - Harvard Univ. <br><br>
  
 
 - Board-Certified Orthopaedic Surgeon
@@ -21,10 +21,10 @@ SangJoon Kwak, MD, MPH
 - Healthcare Ventures Alumni
   - MIT Sloan (Prof Zen Chu)
 - Harvard i-Lab Alumni
-  - [CareLink](https://innovationlabs.harvard.edu/current-team/carelink/)<br>
+  - [CareLink](https://innovationlabs.harvard.edu/current-team/carelink/) <br><br>
 
 
-- Advisory Board of [8chili](https://8chili.com/) in San Francisco<br>
+- Advisory Board of [8chili](https://8chili.com/) in San Francisco <br><br>
 
 
 - See my [linkedin](https://www.linkedin.com/in/sangjoon-kwak-md-msc-89172293/).
