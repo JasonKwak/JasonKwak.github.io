@@ -1,11 +1,11 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Dr SangJoon Kwak blog
 email: 
-description: "Musings of a Computer Scientist."
+description: "For Sustainable Healthcare System"
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://drsangjoonkwak.github.io"
+twitter_username: drsangjoonkwak
+github_username:  drsangjoonkwak
 
 # Build settings
 markdown: kramdown
