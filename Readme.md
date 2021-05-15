@@ -1,4 +1,4 @@
 # My blog
 
-This is my blog, uses [Jekyll](http://jekyllrb.com/). I was tired of bloated, slow Wordpress that locked up all my content.
+The theme of this blog was taken from A. Karpathy's one.
 
