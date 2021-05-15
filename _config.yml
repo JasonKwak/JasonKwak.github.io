@@ -4,7 +4,7 @@ email:
 description: "For Sustainable Healthcare System"
 baseurl: ""
 url: "http://drsangjoonkwak.github.io"
-twitter_username: drsangjoonkwak
+# twitter_username: drsangjoonkwak
 github_username:  drsangjoonkwak
 
 # Build settings
