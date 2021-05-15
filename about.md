@@ -21,10 +21,9 @@ SangJoon Kwak, MD, MPH
 - Healthcare Ventures Alumni
   - MIT Sloan (Prof Zen Chu)
 - Harvard i-Lab Alumni
-  - [CareLink] (https://innovationlabs.harvard.edu/current-team/carelink/)
+  - [CareLink](https://innovationlabs.harvard.edu/current-team/carelink/)
 
 
-- Orthopaedic Surgeon
 - Advisory Board of [8chili](https://8chili.com/) in San Francisco
 
 
