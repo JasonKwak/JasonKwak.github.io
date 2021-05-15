@@ -8,20 +8,20 @@ includelink: true
 SangJoon Kwak, MD, MPH
 
 
-- Medical Doctor
-  - Kyung Hee Univ. 
-- Master of Public Health in Health Management
-  - Harvard Univ. <br><br>
+- **Medical Doctor**
+  - *Kyung Hee Univ.* 
+- **Master of Public Health** in Health Management
+  - *Harvard Univ.* <br><br>
  
 
 - Board-Certified Orthopaedic Surgeon
-  - Hip & Knee Reconstruction
+  - *Hip & Knee Reconstruction*
 - Value-Based Health Care Intensive Course Alumni
-  - Harvard Business School (Prof. Michael Porter / Robert Kaplan)
+  - *Harvard Business School (Prof. Michael Porter / Robert Kaplan)*
 - Healthcare Ventures Alumni
-  - MIT Sloan (Prof Zen Chu)
+  - *MIT Sloan (Prof Zen Chu)*
 - Harvard i-Lab Alumni
-  - [CareLink](https://innovationlabs.harvard.edu/current-team/carelink/) <br><br>
+  - *[CareLink](https://innovationlabs.harvard.edu/current-team/carelink/)* <br><br>
 
 
 - Advisory Board of [8chili](https://8chili.com/) in San Francisco <br><br>
