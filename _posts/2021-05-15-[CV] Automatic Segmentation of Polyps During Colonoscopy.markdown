@@ -15,7 +15,6 @@ p {
     border: none;
     background-color: #eee;
 }
-
 </style>
 
 
@@ -39,8 +38,7 @@ For successful segmentation and detection of polyps, we used the [Kvasir-SEG dat
 <br>
 
 <div style="text-align:center;"><img src="/assets/20210515/figure01.PNG"></div>
-figure01
-<br>
+figure01<br>
 
 
 **_Training and Testing_**
@@ -48,15 +46,13 @@ figure01
 We performed image segmentation by training models with the U-net convolutional network architecture. U-net was developed for biomedical image segmentation and consists of an encoder network followed by a decoder network. The encoder network extracts local features by downsampling the image into a lower-dimensional space via a series of convolution and max-pooling layers. The decoder network upsamples the image and projects the lower feature representation onto a higher resolution image (Figure 2).14 We used a VGG backbone for our U-net implementation, which represents the encoder portion of our network.  
 
 <div style="text-align:center;"><img src="/assets/20210515/figure02.PNG"></div>
-figure02
-<br>
+figure02<br>
 
 
 We compared the results from two U-net models, one with attention gates (denoted as Attention U-net; Figure 3) and one without attention gates (denoted as U-net). Incorporating attention gates into U-net models resulted in gradients located in background pixels being down-weighted, essentially suppressing irrelevant information in the background region of the image.15 The original Attention U-Net paper used a 3D convolution block instead of the 2D convolution block in U-net because the model was originally designed for evaluating 3D CT images. Our study used a basic U-net model with attention gates because the images in this study are all 2D colonoscopy images. 
 
 <div style="text-align:center;"><img src="/assets/20210515/figure03.PNG"></div>
-figure03
-<br>
+figure03<br>
 
 
 Both models were trained for 100 epochs with early stopping if the target criteria improved for 10 epochs. Additional optimized hyperparameter values included the learning rate (1e-4), batch size (16), and weight decay (1e-8). Of the 1000 total images, 800, 100, and 100 images were used for training, validation, and testing respectively.
@@ -69,8 +65,7 @@ To evaluate our deep learning model we used the intersection over union (IoU) me
 The IoUBCE loss function we implemented combines IoU loss (defined as the -IOU) with binary cross entropy loss (BCE). This combination of IoU with BCE has been shown to provide increased stability to the loss function.
 
 <div style="text-align:center;"><img src="/assets/20210515/figure04.PNG"></div>
-figure04
-<br>
+figure04<br>
 
 
 **Results**
@@ -78,13 +73,11 @@ figure04
 The final optimized hyperparameter values for both models were a learning rate of 1e-4, a batch size of 16, and a weight decay of 1e-8. For the U-net model, the lowest validation IoUBCE loss was -0.93, achieved after 44 epochs. For the attention U-net model, the lowest validation IoUBCE loss was 0.18, achieved after 12 epochs. Attention U-net showed superior performance in loss results and training speed compared to U-net, however; in the current study, U-net had better overall results, with a best validation IoU of 0.71 and best training IoU of 0.94, compared to Attention U-net with a best validation IoU of 0.28 and best training IoU of 0.27.
 
 <div style="text-align:center;"><img src="/assets/20210515/figure05.PNG"></div>
-figure05
-<br>
+figure05<br>
 
 
 <div style="text-align:center;"><img src="/assets/20210515/figure06.PNG"></div>
-figure06
-<br>
+figure06<br>
 
 
 **Discussion**
