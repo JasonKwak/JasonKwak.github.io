@@ -1,12 +1,11 @@
 ---
 layout: post
 comments: true
-title:  "[Business Analysis] What is Business Analysis"
+title:  "[Business Analysis] What is Business Analysis?"
 excerpt: "Describing a concept of business analysis. What is it dealing with?"
 date:   2021-05-28 15:00:00
 ---
 
-# Business Analysis란 무엇인가?
 
 내가 처음 Business Analysis라는 용어를 들었을 때, 바로 떠오른 이미지는 수 많은 경제 용어들, 숫자들, 회계, 주식, 투자...이런 것들이었다. 이들 중 일부는 맞고 일부는 틀리다. 
 
