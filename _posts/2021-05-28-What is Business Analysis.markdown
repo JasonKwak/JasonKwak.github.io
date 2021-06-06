@@ -37,7 +37,7 @@ Business Analysis를 위해서 필요한 기본 회계, 금융 컨셉 들은 HPM
 
 Descriptive analysis와 diagnostic analysis의 가장 좋은 예로 19세기 영국의 존 스노우의 콜레라 발생에 관한 연구를 들 수 있다. 1854년 영국 런던에 콜레라가 다시한번 유행했다. 당시에 런던은 두 개의 큰 수도회사가 수도물을 공급했는데, 한 회사는 템즈강의 상류에서 수도를 끌어서 공급했고, 다른 한 회사는 템즈강의 하류에서 공급했다. 존 스노우는 콜라라로 인해 사망자가 발생한 지역과 수도를 공급하는 펌프의 위치를 지도위에 표시했다.
 
-<div style="text-align:center;"><img src="/assets/2021-05-28/01.jpeg"></div>
+<div style="text-align:center;"><img src="/assets/2021-05-28/01.jpg"></div>
 figure01<br>
 
 이 표시를 통해서 스노우는 콜레라 사망자가 특정 회사의 수도 펌프에서 물을 공급하는 지역에서 다수 발생하고 있음을 확인하여, 수도와 콜레라 발생 사이의 관련성을 진단해냈다. 
@@ -47,7 +47,7 @@ figure01<br>
 Predictive analysis는 현재가 아닌 미래의 예측을 보여주는 것이다. 우리가 가장 쉽게 이해할 수 있는 것이 최근 주목받는 기계학습, 인공지능 등 이다. 이것은 현재의 데이터를 기반으로 미래에는 이런 결과를 얻게 될 것임을 시뮬레이션 등을 통해서 분석하는 것이다. 마지막으로 Prescriptive analysis는 최선의 결과를 내거나, 최적의 결과를 만들기위해 현재 상태를 어떻게 변화시켜야 하는지를 정하는 과정이다. 새로 출시된 상품을 통해서 최대의 결과를 위해서 우리는 이 상품을 얼마나 만들어야 하는지, 얼마나 많은 인력을 고용해야 하는지, 그리고 얼마에 시장에 내놓아야 하는지를 결정하는 것이 prescriptive 분석 과정이다.  
 
 
-<div style="text-align:center;"><img src="/assets/2021-05-28/02.jpeg"></div>
+<div style="text-align:center;"><img src="/assets/2021-05-28/02.jpg"></div>
 figure02<br>
 
 ###So...Why data-driven BA?
@@ -73,7 +73,7 @@ Simch-Levi 교수는 신뢰도가 떨어지는 직관은 우리가 직면한 문
 
 아래의 표는 반응성과 효율성에 대한 비용 변화 그래프 이다. 
 
-<div style="text-align:center;"><img src="/assets/2021-05-28/03.jpeg"></div>
+<div style="text-align:center;"><img src="/assets/2021-05-28/03.jpg"></div>
 figure03<br>
 
 
