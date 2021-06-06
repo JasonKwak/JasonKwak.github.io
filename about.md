@@ -5,7 +5,7 @@ permalink: /about/
 includelink: true
 ---
 
-SangJoon Kwak, MD, MPH
+#### **SangJoon Kwak, MD, MSc, MPH**
 
 
 - **Medical Doctor**
