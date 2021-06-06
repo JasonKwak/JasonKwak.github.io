@@ -11,7 +11,7 @@ includelink: true
 - **Medical Doctor**
   - *Kyung Hee Univ.* 
 - **Master of Public Health** in Health Management
-  - *Harvard Univ.* <br><br>
+  - *Harvard Univ.* , Harvard T. H. Chan School of Public Health<br><br>
  
 
 - Board-Certified Orthopaedic Surgeon
