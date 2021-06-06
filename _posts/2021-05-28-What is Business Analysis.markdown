@@ -6,7 +6,7 @@ excerpt: "Describing a concept of business analysis. What is it dealing with?"
 date:   2021-05-28 15:00:00
 ---
 
-###Business Analysis란 무엇인가?
+###Business Analysis란 무엇인가?###
 
 내가 처음 Business Analysis라는 용어를 들었을 때, 바로 떠오른 이미지는 수 많은 경제 용어들, 숫자들, 회계, 주식, 투자...이런 것들이었다. 이들 중 일부는 맞고 일부는 틀리다. 
 
@@ -14,7 +14,7 @@ Business Analysis를 위해서 필요한 기본 회계, 금융 컨셉 들은 HPM
 
 이 곳에서 설명하는 내용들의 대부분은 MIT IDS305에서 가져왔다. 
 
-###Business Analysis란 무엇일까? 
+###Business Analysis란 무엇일까?###
 
 한국 말로 기업 분석이라고 번역되는 이 용어를 위키에서 찾아보면 **기업 운영상태를 분석하여 기업경영의 양부를 판단하는 것**을 의미한다고 한다. 나는 이 곳에서 굳이 business analysis라는 용어를 ‘기업 분석’이라고 번역하고 싶지 않다. 이 번역 용어가 오늘 날의 business analysis의 의미를 충분히 담는데는 아직 이르다고 생각하고 또 어쩌면 오해의 소지가 있을 수 있기 때문이다. Prof. Simchi-Levi는 Business Analysis를 다음과 같이 정의했다. 
 
